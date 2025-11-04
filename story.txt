@@ -1,0 +1,5 @@
+A text-based adventure/fantasy game where you go on a journey to find the evil wizard domain,
+where your cat, Rocky, is being held captive. You get new items, meet new companions,
+and encounter different challenges along the way. Remember, your choices matter.
+The map consists of locations like the player's village, the mountains,
+a small town, and the wizard's domain. This game contains very mild violence.
