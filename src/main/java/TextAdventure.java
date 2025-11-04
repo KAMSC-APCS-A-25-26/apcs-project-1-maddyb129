@@ -348,7 +348,7 @@ public class TextAdventure {
                         System.out.println("The trader thanks you for your patronage and leaves.\n");
                     }
 
-                    // if you say no
+                    // if you say no (for loop minigame)
                     else if (userInput4.equalsIgnoreCase("no"))
                     {
                         int lowerBound = 1;
